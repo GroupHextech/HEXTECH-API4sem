@@ -1,4 +1,4 @@
-# HexTech - Soluções em Tecnologia
+# HexTech - Technology Solutions
 
 Empresa fictícia criada pelos alunos do 4º Semestre de Banco de Dados da [Fatec SJC - Prof. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/suporte-moodle.php "Fatec SJC - Prof. Jessen Vidal") para a realização das atividades curriculares e API semestral.
 
@@ -6,7 +6,7 @@ Nosso foco é o desenvolvimento de software, banco de dados e inovações tecnol
 <br />
 
 
-<h2>Índice</h2>
+<h2>Index</h2>
 
 - [Sobre o grupo](#sobre-o-grupo)
 - [Objetivo do Projeto](#objetivo-do-projeto)
