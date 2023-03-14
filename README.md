@@ -1,15 +1,15 @@
 # HexTech - Technology Solutions
 
-Empresa fictícia criada pelos alunos do 4º Semestre de Banco de Dados da [Fatec SJC - Prof. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/suporte-moodle.php "Fatec SJC - Prof. Jessen Vidal") para a realização das atividades curriculares e API semestral.
+Fictitious company created by the students of the 4th Semester of Database of [Fatec SJC - Prof. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/suporte-moodle.php "Fatec SJC - Prof. Jessen Vidal") to carry out the curricular activities and the semester API.
 
-Nosso foco é o desenvolvimento de software, banco de dados e inovações tecnológicas.
+Our ideas are geared towards software development, database and technological innovations.
 <br />
 
 
 <h2>Index</h2>
 
-- [Sobre o grupo](#sobre-o-grupo)
-- [Objetivo do Projeto](#objetivo-do-projeto)
+- [About the group](#about-the-group)
+- [Project Purpose](#project-purpose)
 - [Manual do usuário (Excutando a aplicação)](#manual-do-usuário-excutando-a-aplicação)
 - [Cronograma e Backlog das sprints](#cronograma-e-backlog-das-sprints)
     - [Backlog e cronograma sprint 1](readme_pages/sprint01_backlog_burndown.md)
@@ -25,7 +25,7 @@ Nosso foco é o desenvolvimento de software, banco de dados e inovações tecnol
 <br />
 
 
-<h2>Sobre o grupo</h2>
+<h2>About the group</h2>
 
 | Scrum Master | PO | Developers | 
 | ------------------- | ------------------- |  ------------------- | 
@@ -34,7 +34,7 @@ Nosso foco é o desenvolvimento de software, banco de dados e inovações tecnol
 <br />
 
 
-<h2>Objetivo do Projeto</h2>
+<h2>Project Purpose</h2>
 
 Criação de um sistema web para o cliente [EMBRAER S.A.](https://www.embraer.com.br/ "EMBRAER S.A.").
 Uma empresa de consultoria meteorológica que necessitam de um sistema para armazenar seus dados em uma base de dados e com isto oferecer uma plataforma para visualização de dados e gerar relatórios customizados a seus clientes.
