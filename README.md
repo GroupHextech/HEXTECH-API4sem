@@ -153,6 +153,9 @@ Ferramentas utilizadas para desenvolvimento das atividades:
 | | | [HTM5](https://www.w3c.br/pub/Cursos/CursoHTML5/html5-web.pdf "HTML5") | [JPA](https://www.ibm.com/docs/pt-br/was/8.5.5?topic=SSEQTP_8.5.5/com.ibm.websphere.nd.multiplatform.doc/ae/cejb_persistence.html "Java JPA") |
 | | | [Thymeleaf](https://www.thymeleaf.org/ "Thymeleaf") | [DEVTools](https://docs.spring.io/spring-boot/docs/1.5.16.RELEASE/reference/html/using-boot-devtools.html "DEVTools") |
 | | | [Ajax](https://www.w3schools.com/xml/ajax_intro.asp "AJAX") | |
+| | | [Vue.js](https://vuejs.org/) | |
+| | | [Vite](https://vitejs.dev/) | |
+| | | [TypeScript](https://www.typescriptlang.org/) | |
 
 <br/>
 
