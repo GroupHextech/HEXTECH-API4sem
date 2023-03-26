@@ -1,57 +1,58 @@
 <template>
   <div class="vehicle">
-    <h1>Olá {{ nome }}!</h1>
-    <input type="text" v-model="nome" />
-    <p v-if="nome.length > 5">Texto longo</p>
-    <p v-else>Texto curto</p>
-    <input type="password" v-model="senha" />
-    <button @click="cadastrar">Cadastrar</button>
-    <p>{{ contador }} <button @click="incrementar">Incrementar</button></p>
-    <button @click="atualizar">Atualizar</button>
-    <table>
-      <thead>
-        <td>Id</td>
-        <td>Nome</td>
-      </thead>
-      <tr v-for="usuario in usuarios" :key="usuario.id">
-        <td>{{ usuario.id }}</td>
-        <td>{{ usuario.nome }}</td>
-      </tr>
-    </table>
+    <h1>Vehicle</h1>
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#">Owner</a></li>
+        <li class="breadcrumb-item"><a href="#">Vehicle</a></li>
+        <li class="breadcrumb-item active" aria-current="page">
+          Chassis 10000076
+        </li>
+      </ol>
+    </nav>
+    <div class="table-responsive">
+      <table class="table table-borderless table-hover">
+        <thead class="thead-dark">
+          <tr>
+            <th>Service Bulletins</th>
+            <th>Incorporeted</th>
+            <th>Not Applicable</th>
+            <th>Applicable</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th>SB FAT-00-CG10</th>
+            <td>
+              <i class="pi pi-check" style="color: green"></i>
+            </td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <th>SB FAT-00-CG11</th>
+            <td></td>
+            <td>
+              <i class="pi pi-check" style="color: green"></i>
+            </td>
+            <td></td>
+          </tr>
+          <tr>
+            <th>SB FAT-00-CG12</th>
+            <td></td>
+            <td>
+              <i class="pi pi-check" style="color: green"></i>
+            </td>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
   </div>
 </template>
   
 <script setup lang="ts">
-import { ref, onMounted } from "vue";
-import axios from "axios";
-
-const nome = ref("Mineda");
-const senha = ref("senha123");
-
-const usuarios = ref([
-  { id: 1, nome: "mineda", senha: "123" },
-  { id: 2, nome: "bla", senha: "1234" },
-]);
-
-const contador = ref(1);
-
-function incrementar() {
-  contador.value++;
-}
-
-async function atualizar() {
-  usuarios.value = (await axios.get("usuario")).data;
-}
-
-async function cadastrar() {
-  await axios.post("usuario", {
-    nome: nome.value,
-    senha: senha.value,
-  });
-  atualizar();
-}
-
-onMounted(() => {
-  atualizar();
-});
 </script>
+
+<style>
+</style>

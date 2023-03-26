@@ -4,6 +4,7 @@ import { createApp } from 'vue'
 import './style.css'
 import App from './App.vue'
 import router from './router'
+import 'primeicons/primeicons.css';
 
 //import axios from 'axios';
 
@@ -11,8 +12,7 @@ import router from './router'
 
 const app = createApp(App)
 
-// app.use(createPinia())
+//app.use(createPinia())
+
 app.use(router)
 app.mount('#app')
-
-
