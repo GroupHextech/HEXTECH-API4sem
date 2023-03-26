@@ -41,7 +41,7 @@
         </li>
       </ul>
       <span class="navbar-text">
-        <button type="button" class="btn btn-outline-secondary btn-sm">
+        <button type="button" class="btn btn-outline-light btn-sm">
           Sign out
         </button>
       </span>
