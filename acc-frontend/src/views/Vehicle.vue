@@ -1,6 +1,6 @@
 <template>
-  <div class="vehicle">
-    <h1>Vehicle</h1>
+  <div class="container">
+    <h2 class="page-title">Vehicle</h2>
     <nav aria-label="breadcrumb">
       <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="#">Owner</a></li>

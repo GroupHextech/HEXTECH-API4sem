@@ -28,6 +28,12 @@ a:hover {
   text-align: center;
 }
 
+.page-title {
+  text-align: left;
+  margin-top: 16px;
+  margin-bottom: 8px;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
