@@ -70,8 +70,8 @@ Nossa proposta é a criação de um sistema como o [WIREFRAME](documents/wirefra
 
 <table border="0">
     <tr>
-        <td><img src="https://github.com/GroupHextech/HEXTECH-API3sem/blob/8a0882994e74ca2210c8ef67bb7dcbe7cc389577/documents/wir-admin.png" alt="Gráficos Hextech" width="480" height="285"></td>
-        <td><img src="https://github.com/GroupHextech/HEXTECH-API3sem/blob/8a0882994e74ca2210c8ef67bb7dcbe7cc389577/documents/wir-cadastro-estacao.png" alt="Telas de Cadastros" width="480" height="285"></td>
+        <td><img src="https://github.com/GroupHextech/HEXTECH-API4sem/blob/1SprintAPI/readme_documents/wireframes/Vehicle%20-%20Service%20Bulletins.png" alt="Vehicle - Service Bulletins" width="480" height="285"></td>
+        <td><img src="https://github.com/GroupHextech/HEXTECH-API4sem/blob/1SprintAPI/readme_documents/wireframes/Vehicle%20-%20Items.png" alt="Vehicle - Items" width="480" height="285"></td>
     </tr>
 </table>
 
