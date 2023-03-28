@@ -30,7 +30,7 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#"
-            ><router-link to="/vehicle">Vehicle</router-link></a
+            ><router-link to="/vehicle">Vehicles</router-link></a
           >
         </li>
         <li class="nav-item">
