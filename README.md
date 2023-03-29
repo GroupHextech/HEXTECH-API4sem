@@ -10,8 +10,8 @@ Our ideas are geared towards software development, database and technological in
 
 - [About the group](#about-the-group)
 - [Project Purpose](#project-purpose)
-- [User's Manual (Excuting the application)](#manual-do-usuário-excutando-a-aplicação)
-- [Sprint timeline and backlog](#cronograma-e-backlog-das-sprints)
+- [User's Manual (Excuting the application)](#users-manual-excuting-the-application)
+- [Sprint timeline and backlog](#sprint-timeline-and-backlog)
     - [Sprint 1 Backlog and timeline](readme_pages/sprint01_backlog_burndown.md)
     - [Sprint 2 Backlog and timeline](readme_pages/sprint02_backlog_burndown.md)
     - [Sprint 3 Backlog and timeline](readme_pages/sprint03_backlog_burndown.md)
@@ -35,22 +35,28 @@ Our ideas are geared towards software development, database and technological in
 
 <h2>Project Purpose</h2>
 
-Criação de um sistema web para o cliente [EMBRAER S.A.](https://www.embraer.com.br/ "EMBRAER S.A.").
-Uma empresa de consultoria meteorológica que necessitam de um sistema para armazenar seus dados em uma base de dados e com isto oferecer uma plataforma para visualização de dados e gerar relatórios customizados a seus clientes.
+Creating a web system for the customer [EMBRAER S.A.](https://www.embraer.com.br/ "EMBRAER S.A.")
 
-Escopo desejado pelo cliente: [Embraer API](APIProjectScope-Embraer/%5BAC%20Config%20Control%5D%20Proposta%20FATEC%202023-1_rev1_0.docx)
+Empresa Brasileira de Aeronáutica (Embraer) is responsible for manufacturing military, commercial, executive or agricultural aircraft.
+
+Embraer is the third largest company in the world in executive aviation, and it has been reducing the dominance of European and American companies in the sector.
+
+<br />
+
+Customer's desired scope: [Embraer API](./api_project_Embraer/%5BAC%20Config%20Control%5D%20Proposta%20FATEC%202023-1_rev1_0.docx)
+
 <br />
 
 
-<h2>Manual do usuário (Excutando a aplicação)</h2>
+<h2>User's Manual (Excuting the application)</h2>
 
-Todo processo para execução da aplicação está orientado neste manual criado para o cliente.
+Manual with all the steps to run the desktop application.
+[User's Manual](./readme_documents/user_manual/user_manual.md "User's Manual")
 
-[Manual do usuário - Como executar a aplicação](manual_usuario/user_manual.md "Manual do usuário")
 <br />
 
 
-<h2>Cronograma e Backlog das sprints</h2>
+<h2>Sprint timeline and backlog</h2>
 
 ![Backlog_do_Produto](documents/BacklogProduto.png "Backlog do Produto")
 
