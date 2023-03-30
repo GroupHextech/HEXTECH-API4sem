@@ -1,0 +1,6 @@
+[submodule "acc-frontend"]
+	path = acc-frontend
+	url = https://github.com/GroupHextech/acc-frontend
+[submodule "acc-backend"]
+	path = acc-backend
+	url = https://github.com/GroupHextech/acc-backend
