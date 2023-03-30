@@ -10,18 +10,18 @@ Our ideas are geared towards software development, database and technological in
 
 - [About the group](#about-the-group)
 - [Project Purpose](#project-purpose)
-- [Manual do usuário (Excutando a aplicação)](#manual-do-usuário-excutando-a-aplicação)
-- [Cronograma e Backlog das sprints](#cronograma-e-backlog-das-sprints)
-    - [Backlog e cronograma sprint 1](readme_pages/sprint01_backlog_burndown.md)
-    - [Backlog e cronograma sprint 2](readme_pages/sprint02_backlog_burndown.md)
-    - [Backlog e cronograma sprint 3](readme_pages/sprint03_backlog_burndown.md)
-    - [Backlog e cronograma sprint 4](readme_pages/sprint04_backlog_burndown.md)
-- [Andamento das atividas por sprint](#andamento-das-atividades)
-    - [Andamento Sprint 01](readme_pages/sprint01_atividades_entrega.md)
-    - [Andamento Sprint 02](readme_pages/sprint02_atividades_entrega.md)
-    - [Andamento Sprint 03](readme_pages/sprint03_atividades_entrega.md)
-    - [Andamento Sprint 04](readme_pages/sprint04_atividades_entrega.md)
-- [Tecnologias utilizadas](#tecnologias-utilizadas)
+- [User's Manual (Excuting the application)](#users-manual-excuting-the-application)
+- [Sprint timeline and backlog](#sprint-timeline-and-backlog)
+    - [Sprint 1 Backlog and timeline](readme_pages/sprint01_backlog_burndown.md)
+    - [Sprint 2 Backlog and timeline](readme_pages/sprint02_backlog_burndown.md)
+    - [Sprint 3 Backlog and timeline](readme_pages/sprint03_backlog_burndown.md)
+    - [Sprint 4 Backlog and timeline](readme_pages/sprint04_backlog_burndown.md)
+- [Sprints progress activities](#andamento-das-atividades)
+    - [Sprint 01 progress](readme_pages/sprint01_atividades_entrega.md)
+    - [Sprint 02 progress](readme_pages/sprint02_atividades_entrega.md)
+    - [Sprint 03 progress](readme_pages/sprint03_atividades_entrega.md)
+    - [Sprint 04 progress](readme_pages/sprint04_atividades_entrega.md)
+- [Development tools](#development-tools)
 <br />
 
 
@@ -29,29 +29,34 @@ Our ideas are geared towards software development, database and technological in
 
 | Scrum Master | PO | Developers | 
 | ------------------- | ------------------- |  ------------------- | 
-| [William David Antoniazzi](mailto:william.antoniazzi@fatec.sp.gov.br "William David Antoniazzi") <a href="https://www.linkedin.com/in/williamantoniazzi/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" /></a> | [Danilo Verginio Silva](mailto:danilo.silva210b@fatec.sp.gov.br "Danilo Verginio Silva") <a href="https://www.linkedin.com/in/daniloverginio" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" /></a> | [Michel Rubens Silva](mailto:michel.silva33@fatec.sp.gov.br "Michel Rubens Silva") <a href="https://www.linkedin.com/in/michelrubens/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" /></a> | 
-| | | [Ruan Cesar Macedo](mailto:ruan.macedo@fatec.sp.gov.br "Ruan Cesar Macedo") <a href="https://www.linkedin.com/in/ruan-cesar-mac/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" /></a>|
+| [William David Antoniazzi](mailto:william.antoniazzi@fatec.sp.gov.br "William David Antoniazzi") <a href="https://www.linkedin.com/in/williamantoniazzi/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" /></a> | [Danilo Verginio Silva](mailto:danilo.silva210b@fatec.sp.gov.br "Danilo Verginio Silva") <a href="https://www.linkedin.com/in/daniloverginio" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" /></a> | [Michel Rubens Silva](mailto:michel.silva33@fatec.sp.gov.br "Michel Rubens Silva") <a href="https://www.linkedin.com/in/michelrubens/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" /></a> | |
 <br />
 
 
 <h2>Project Purpose</h2>
 
-Criação de um sistema web para o cliente [EMBRAER S.A.](https://www.embraer.com.br/ "EMBRAER S.A.").
-Uma empresa de consultoria meteorológica que necessitam de um sistema para armazenar seus dados em uma base de dados e com isto oferecer uma plataforma para visualização de dados e gerar relatórios customizados a seus clientes.
+Creating a web system for the customer [EMBRAER S.A.](https://www.embraer.com.br/ "EMBRAER S.A.")
 
-Escopo desejado pelo cliente: [Embraer API](APIProjectScope-Embraer/%5BAC%20Config%20Control%5D%20Proposta%20FATEC%202023-1_rev1_0.docx)
+Empresa Brasileira de Aeronáutica (Embraer) is responsible for manufacturing military, commercial, executive or agricultural aircraft.
+
+Embraer is the third largest company in the world in executive aviation, and it has been reducing the dominance of European and American companies in the sector.
+
+<br />
+
+Customer's desired scope: [Embraer API](./api_project_Embraer/%5BAC%20Config%20Control%5D%20Proposta%20FATEC%202023-1_rev1_0.docx)
+
 <br />
 
 
-<h2>Manual do usuário (Excutando a aplicação)</h2>
+<h2>User's Manual (Excuting the application)</h2>
 
-Todo processo para execução da aplicação está orientado neste manual criado para o cliente.
+Manual with all the steps to run the desktop application.
+[User's Manual](./readme_documents/user_manual/user_manual.md "User's Manual")
 
-[Manual do usuário - Como executar a aplicação](manual_usuario/user_manual.md "Manual do usuário")
 <br />
 
 
-<h2>Cronograma e Backlog das sprints</h2>
+<h2>Sprint timeline and backlog</h2>
 
 ![Backlog_do_Produto](documents/BacklogProduto.png "Backlog do Produto")
 
@@ -70,8 +75,8 @@ Nossa proposta é a criação de um sistema como o [WIREFRAME](documents/wirefra
 
 <table border="0">
     <tr>
-        <td><img src="https://github.com/GroupHextech/HEXTECH-API3sem/blob/8a0882994e74ca2210c8ef67bb7dcbe7cc389577/documents/wir-admin.png" alt="Gráficos Hextech" width="480" height="285"></td>
-        <td><img src="https://github.com/GroupHextech/HEXTECH-API3sem/blob/8a0882994e74ca2210c8ef67bb7dcbe7cc389577/documents/wir-cadastro-estacao.png" alt="Telas de Cadastros" width="480" height="285"></td>
+        <td><img src="https://github.com/GroupHextech/HEXTECH-API4sem/blob/1SprintAPI/readme_documents/wireframes/Vehicle%20-%20Service%20Bulletins.png" alt="Vehicle - Service Bulletins" width="480" height="285"></td>
+        <td><img src="https://github.com/GroupHextech/HEXTECH-API4sem/blob/1SprintAPI/readme_documents/wireframes/Vehicle%20-%20Items.png" alt="Vehicle - Items" width="480" height="285"></td>
     </tr>
 </table>
 
@@ -139,11 +144,9 @@ Nossa proposta é a criação de um sistema como o [WIREFRAME](documents/wirefra
 
 </details>
 
-<h2>Tecnologias utilizadas</h2>
+<h2>Development Tools</h2>
 
-Ferramentas utilizadas para desenvolvimento das atividades:
-
-| Comunicação e Versionamento | Banco de Dados | Front end e fluxos | Back End |
+| Communication and Versioning | Databases | Front end | Back End |
 | --- | --- | --- | --- |
 | [GitHub](https://github.com/) | [MySQL](https://dev.mysql.com/downloads/mysql/ "MySQL Community") | [Figma](https://www.figma.com/ "Figma") | [Java JDK](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html "Java JDK") |
 | [Git](https://git-scm.com/download/win) | [MySQL Workbench](https://www.mysql.com/products/workbench/ "MySQL Workbench") | [Bootstrap](https://getbootstrap.com/ "Bootstrap") | [Spring](https://start.spring.io/ "Spring") |
@@ -159,6 +162,6 @@ Ferramentas utilizadas para desenvolvimento das atividades:
 
 <br/>
 
-[Home](#hextech---soluções-em-tecnologia)
+[Home](#hextech---technology-solutions)
 
 <br/>
