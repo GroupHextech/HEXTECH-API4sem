@@ -11,16 +11,11 @@ Our ideas are geared towards software development, database and technological in
 - [About the group](#about-the-group)
 - [Project Purpose](#project-purpose)
 - [User's Manual (Excuting the application)](#users-manual-excuting-the-application)
-- [Sprint timeline and backlog](#sprint-timeline-and-backlog)
-    - [Sprint 1 Backlog and timeline](readme_pages/sprint01_backlog_burndown.md)
-    - [Sprint 2 Backlog and timeline](readme_pages/sprint02_backlog_burndown.md)
-    - [Sprint 3 Backlog and timeline](readme_pages/sprint03_backlog_burndown.md)
-    - [Sprint 4 Backlog and timeline](readme_pages/sprint04_backlog_burndown.md)
-- [Sprints progress activities](#sprint-progress-activities)
-    - [Sprint 01 progress](readme_pages/sprint01_atividades_entrega.md)
-    - [Sprint 02 progress](readme_pages/sprint02_atividades_entrega.md)
-    - [Sprint 03 progress](readme_pages/sprint03_atividades_entrega.md)
-    - [Sprint 04 progress](readme_pages/sprint04_atividades_entrega.md)
+- [Sprint timeline activities and backlog](#sprint-timeline-activities-and-backlog)
+    - [Sprint 1 Backlog and timeline](./readme_pages/sprint01_atividades_entrega.md)
+    - [Sprint 2 Backlog and timeline](./readme_pages/sprint02_atividades_entrega.md)
+    - [Sprint 3 Backlog and timeline](./readme_pages/sprint03_atividades_entrega.md)
+    - [Sprint 4 Backlog and timeline](./readme_pages/sprint04_atividades_entrega.md)
 - [Development tools](#development-tools)
 
 <br />
@@ -57,36 +52,20 @@ Manual with all the steps to run the desktop application.
 
 <br />
 
+Presentation of the wireframe for each proposal: 
+![WIREFRAME](./readme_documents/wireframes/wireframe_gif.gif "Wireframe_Gif")
 
-<h2>Sprint timeline and backlog</h2>
+<br />
+
+
+<h2>Sprint timeline activities and backlog</h2>
 
 ![Backlog_do_Produto](./readme_documents/sprintslogs/product_backlog.png "Backlog do Produto")
 
-- [Sprint 1 Backlog and timeline](readme_pages/sprint01_backlog_burndown.md)
-- [Sprint 2 Backlog and timeline](readme_pages/sprint02_backlog_burndown.md)
-- [Sprint 3 Backlog and timeline](readme_pages/sprint03_backlog_burndown.md)
-- [Sprint 4 Backlog and timeline](readme_pages/sprint04_backlog_burndown.md)
-
-<br />
-
-
-<h2>Sprints progress activities</h2>
-In this topic we will present the progress of the work at each delivery/sprint. Evolution of each task, database and project development.
-
-<br />
-
-Presentation of the wireframe for each proposal: [WIREFRAME](documents/wireframe_sprint1.pdf "Wireframe_PDF") abaixo:
-Add gif: ![](../docsandimages/DDC_TECSUS_Wireframes.gif "DDC_Wireframes")
-
-
-<br />
-
-Elapse of activities at each sprint:
-
-- [Sprint 01 progress](readme_pages/sprint01_atividades_entrega.md)
-- [Sprint 02 progress](readme_pages/sprint02_atividades_entrega.md)
-- [Sprint 03 progress](readme_pages/sprint03_atividades_entrega.md)
-- [Sprint 04 progress](readme_pages/sprint04_atividades_entrega.md)
+- [Sprint 1 Backlog and timeline](./readme_pages/sprint01_atividades_entrega.md)
+- [Sprint 2 Backlog and timeline](./readme_pages/sprint02_atividades_entrega.md)
+- [Sprint 3 Backlog and timeline](./readme_pages/sprint03_atividades_entrega.md)
+- [Sprint 4 Backlog and timeline](./readme_pages/sprint04_atividades_entrega.md)
 
 <br />
 
