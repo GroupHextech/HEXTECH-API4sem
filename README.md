@@ -48,7 +48,7 @@ Customer's desired scope: [Embraer API](./api_project_Embraer/%5BAC%20Config%20C
 <h2>User's Manual (Excuting the application)</h2>
 
 Manual with all the steps to run the desktop application.
-[User's Manual](./readme_documents/user_manual/user_manual.md "User's Manual")
+[User's Manual](./readme_pages/user_manual.md "User's Manual")
 
 <br />
 
