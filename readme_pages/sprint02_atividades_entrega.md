@@ -41,3 +41,9 @@ Modelo conceitual e lógico criado do banco de dados para apresentação da spri
 <br />
 OBS: Devido a complicações internas não houve entrega desta sprint.
 Algumas tarefas foram executadas e serão avalidas na terceira sprint.
+
+<br/>
+
+[Home](#hextech---technology-solutions)
+
+<br/>

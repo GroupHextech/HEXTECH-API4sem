@@ -1,32 +1,57 @@
-# Crongrama, Backlog do produto e das sprints - SPRINT 01
-Nestas páginas divididas por Sprint, poderão ser acompanhadas a evolução da aplicação em uma visão de tarefas realizadas pelo grupo.
+# Sprint 1 - Product and Sprint Backlog and timeline
+
+Monitoring of activities carried out during the sprint, to evaluate deliverables and team effort.
+Schedule, Burndown, Tasks and cumulative activities.
+
 <br />
 
+<h2>Index</h2>
 
-<h2>Índice</h2>
+- [Timeline](#timeline)
+- [Product backlog in JIRA](#product-backlog-ion-jira)
+- [Burndown Sprint01](#burndown-sprint01)
 
-- [Backlog do produto em Tasks no Jira](#backlog-do-produto-tasks-no-jira)
-- [Modelo conceitual e lógico do Banco de Dados](#modelo-conceitual-logico-do-banco-de-dados)
 <br />
 
+<h2>Timeline</h2>
 
-<h2>Backlog do produto, Tasks no Jira</h2>
+| Date | Description |  
+| ---- | ------ |
+| 13/02/23 - 03/03/23 | Kick-Off |
+| 13/03/23 - 02/04/23 | Sprint 01 Delivery | 
+| 03/04/23 - 23/04/23 | Sprint 02 Delivery |  
+| 24/04/23 - 14/05/23 | Sprint 03 Delivery | 
+| 15/05/23 - 04/06/23 | Sprint 04 Delivery | 
+| 13/06/23 - 14/06/23 | Solutions Fair + API Final Showing |
 
-![taskssprint01](../readme_docs/tasks_sprint01.png)
 <br />
 
+<h2>Product backlog in JIRA</h2>
 
-<h2>Modelo conceitual e lógico do Banco de Dados</h2>
+![taskssprint01](../readme_documents/sprintslogs/tasks_sprint01.png) 
 
-Modelo conceitual e lógico criado do banco de dados para apresentação da sprint 01.
-
-
-<h3>Modelo conceitual:</h3>
-
-![ModeloconceitualBDSP1](../documents/BRModel_ConceitualIACITI_SP01.png)
-
-
-<h3>Modelo lógico:</h3>
-
-![ModeloLogicoBDSP1](../readme_docs/bdsprint1.png)
 <br />
+
+<h2>Burndown Sprint 01</h2>
+
+Graph with the evolution of the sprint execution time
+
+![Sprint01](../readme_documents/sprintslogs/burndownsp1.png)
+
+<br />
+
+<h2>Database and application evolution</h2>
+
+Sprint monitoring of database and application developments.
+Conceptual to physical model and application development at each sprint.
+
+
+Conceptual model of database
+
+![ConceptualBDSP1](../readme_documents/database/bd_conceitualsp1.png)
+
+<br/>
+
+[Home](https://github.com/GroupHextech/HEXTECH-API4sem)
+
+<br/>

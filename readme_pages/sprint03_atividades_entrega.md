@@ -54,3 +54,9 @@ Dicionário em PDF com informações sobre a estrutura do banco de dados.
 
 <br />
 OBS: Problemas com o grupo, onde saíram 3 integrantes restando apenas 3 para continuar o andamento do projeto.
+
+<br/>
+
+[Home](#hextech---technology-solutions)
+
+<br/>
