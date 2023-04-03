@@ -15,45 +15,43 @@ Schedule, Burndown, Tasks and cumulative activities.
 
 <h2>Timeline</h2>
 
-| Data | Evento |  
+| Date | Description |  
 | ---- | ------ |
 | 13/02/23 - 03/03/23 | Kick-Off |
-| 13/03/23 - 02/04/23 | Entrega Sprint 01 | 
-| 03/04/23 - 23/04/23 | Entrega Sprint 02 |  
-| 24/04/23 - 14/05/23 | Entrega Sprint 03 | 
-| 15/05/23 - 04/06/23 | Entrega Sprint 04 | 
-| 13/06/23 - 14/06/23 | Feira de Soluções + Apresentação Final API |
+| 13/03/23 - 02/04/23 | Sprint 01 Delivery | 
+| 03/04/23 - 23/04/23 | Sprint 02 Delivery |  
+| 24/04/23 - 14/05/23 | Sprint 03 Delivery | 
+| 15/05/23 - 04/06/23 | Sprint 04 Delivery | 
+| 13/06/23 - 14/06/23 | Solutions Fair + API Final Showing |
 
 <br />
 
 <h2>Product backlog in JIRA</h2>
 
-![taskssprint01](../readme_documents/sprintslogs/tasks_sprint01.png)
+![taskssprint01](../readme_documents/sprintslogs/tasks_sprint01.png) 
+
 <br />
 
-<h2>Burndown Sprint01</h2>
-Gráfico com a evolução do tempo de execução da sprint
+<h2>Burndown Sprint 01</h2>
+
+Graph with the evolution of the sprint execution time
 
 ![Sprint01](../readme_documents/sprintslogs/burndownsp1.png)
 
 <br />
 
-<h2>Modelo conceitual e lógico do Banco de Dados</h2>
+<h2>Database and application evolution</h2>
 
-Modelo conceitual e lógico criado do banco de dados para apresentação da sprint 01.
-
-
-<h3>Modelo conceitual:</h3>
-
-![ModeloconceitualBDSP1](../documents/BRModel_ConceitualIACITI_SP01.png)
+Sprint monitoring of database and application developments.
+Conceptual to physical model and application development at each sprint.
 
 
-<h3>Modelo lógico:</h3>
+Conceptual model of database
 
-![ModeloLogicoBDSP1](../readme_docs/bdsprint1.png)
+![ConceptualBDSP1](../readme_documents/database/bd_conceitualsp1.png)
 
 <br/>
 
-[Home](#hextech---technology-solutions)
+[Home](https://github.com/GroupHextech/HEXTECH-API4sem)
 
 <br/>

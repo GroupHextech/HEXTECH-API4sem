@@ -13,9 +13,9 @@ Our ideas are geared towards software development, database and technological in
 - [User's Manual (Excuting the application)](#users-manual-excuting-the-application)
 - [Sprint timeline activities and backlog](#sprint-timeline-activities-and-backlog)
     - [Sprint 1 Backlog and timeline](./readme_pages/sprint01_atividades_entrega.md)
-    - [Sprint 2 Backlog and timeline](./readme_pages/sprint02_atividades_entrega.md)
-    - [Sprint 3 Backlog and timeline](./readme_pages/sprint03_atividades_entrega.md)
-    - [Sprint 4 Backlog and timeline](./readme_pages/sprint04_atividades_entrega.md)
+    - Sprint 2 Backlog and timeline
+    - Sprint 3 Backlog and timeline
+    - Sprint 4 Backlog and timeline
 - [Development tools](#development-tools)
 
 <br />
@@ -63,9 +63,9 @@ Presentation of the wireframe for each proposal:
 ![Backlog_do_Produto](./readme_documents/sprintslogs/product_backlog.png "Backlog do Produto")
 
 - [Sprint 1 Backlog and timeline](./readme_pages/sprint01_atividades_entrega.md)
-- [Sprint 2 Backlog and timeline](./readme_pages/sprint02_atividades_entrega.md)
-- [Sprint 3 Backlog and timeline](./readme_pages/sprint03_atividades_entrega.md)
-- [Sprint 4 Backlog and timeline](./readme_pages/sprint04_atividades_entrega.md)
+- Sprint 2 Backlog and timeline
+- Sprint 3 Backlog and timeline
+- Sprint 4 Backlog and timeline
 
 <br />
 
