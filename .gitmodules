@@ -9,3 +9,4 @@
 [submodule "acc-documentation"]
 	path = acc-documentation
 	url = https://github.com/GroupHextech/acc-documentation.git
+	branch = main
