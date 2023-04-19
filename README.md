@@ -87,6 +87,7 @@ Presentation of the wireframe for each proposal:
 | | | [Vue.js](https://vuejs.org/) | |
 | | | [Vite](https://vitejs.dev/) | |
 | | | [TypeScript](https://www.typescriptlang.org/) | |
+| | | [Pinia](https://pinia.vuejs.org/) | |
 
 <br/>
 
