@@ -8,8 +8,8 @@ Schedule, Burndown, Tasks and cumulative activities.
 <h2>Index</h2>
 
 - [Timeline](#timeline)
-- [Product backlog in JIRA](#product-backlog-ion-jira)
-- [Burndown Sprint02](#burndown-sprint02)
+- [Product backlog in JIRA](#product-backlog-in-jira)
+- [Burndown Sprint02](#burndown-sprint-02)
 - [Database and application evolution](#database-and-application-evolution)
     - [Logical model of database](#logical-model-of-database)
     - [Scripts SQL](#scripts-sql)
@@ -50,13 +50,13 @@ Sprint monitoring of database and application developments.
 Conceptual to physical model and application development at each sprint.
 
 
-<h3> Logical model of database </h3>
+<h3>Logical model of database</h3>
 
 ![LogicalBD](../readme_documents/database/bd_LogicalOracle.png)
 
 <br />
 
-<h3> Scritps SQL</h3>
+<h3>Scritps SQL</h3> 
 
 All sql scripts that were used to create the Physical DB in Oracle Cloud
 
@@ -66,7 +66,7 @@ All sql scripts that were used to create the Physical DB in Oracle Cloud
 
 <br />
 
-<h3> Data Dictionary </h3>
+<h3>Data Dictionary</h3>
 
 Data dictionary with type, value, and binding information for each field and tables.
 [Data Dictionary](../readme_documents/database/Embraer_Oracle_Documentation.pdf)
