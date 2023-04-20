@@ -74,24 +74,9 @@ Presentation of the wireframe for each proposal:
 
 <h2>Development Tools</h2>
 
-| Versioning  	| Database  	| Front-end  	| Back-end  	|
+| Versioning & Communication  	| Database  	| Front-end  	| Back-end  	|
 |---	|---	|---	|---	|
-|  <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github" /></a></p> 	| <p align="center"><a href="https://www.oracle.com/br/cloud/sign-in.html">ᴏʀᴀᴄʟᴇ ᴄʟᴏᴜᴅ</a> <a href="https://vertabelo.com/">ᴠᴇʀᴛᴀʙᴇʟᴏ</a></p> 	| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,vscode,js,html,css,svg,bootstrap,vue,vite,ts,jquery" /></a></p>  	| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,eclipse,nodejs,hibernate,maven" /></a></p>  	|
-
-| Communication <br> and Versioning | Databases | Front end | Back End |
-| --- | --- | --- | --- |
-| [GitHub](https://github.com/ "GitHub") | [Oracle Cloud - Autonomous](https://www.oracle.com/br/cloud/sign-in.html "Oracle Cloud") | [Figma](https://www.figma.com/ "Figma") | [Java JDK](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html "Java JDK") |
-| [Git](https://git-scm.com/download/win "Git") | [Vertabelo](https://vertabelo.com/ "Vertabelo") | [Bootstrap](https://getbootstrap.com/ "Bootstrap") | [Spring](https://start.spring.io/ "Spring") |
-| [MS Teams](http://https://www.microsoft.com/pt-br/microsoft-teams/log-in "MS Teams") | | [jQuery](https://jquery.com/ "jQuery") | [Apache Tomcat](https://tomcat.apache.org/ "Apache Tomcat") |
-| | | [JavaScript](https://www.javascript.com/ "JavaScript") | [Springboot](https://spring.io/projects/spring-boot "Springboot") |
-| | | [CSS3](https://www.w3schools.com/css/ "CSS3") | [Hibernate](https://hibernate.org/ "Hibernate") |
-| | | [HTM5](https://www.w3c.br/pub/Cursos/CursoHTML5/html5-web.pdf "HTML5") | [JPA](https://www.ibm.com/docs/pt-br/was/8.5.5?topic=SSEQTP_8.5.5/com.ibm.websphere.nd.multiplatform.doc/ae/cejb_persistence.html "Java JPA") |
-| | | [Axios](https://axios-http.com/ "Axios") | [DEVTools](https://docs.spring.io/spring-boot/docs/1.5.16.RELEASE/reference/html/using-boot-devtools.html "DEVTools") |
-| | | [Ajax](https://www.w3schools.com/xml/ajax_intro.asp "AJAX") | |
-| | | [Vue.js](https://vuejs.org/) | |
-| | | [Vite](https://vitejs.dev/) | |
-| | | [TypeScript](https://www.typescriptlang.org/) | |
-| | | [Pinia](https://pinia.vuejs.org/) | |
+|  <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github" /></a> <a href="https://teams.microsoft.com/">Microsoft Teams</a></p> 	| <p align="center"><a href="https://www.oracle.com/br/cloud/sign-in.html">Oracle Cloud</a> <a href="https://vertabelo.com/">Vertabelo</a></p> 	| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,vscode,js,html,css,svg,bootstrap,vue,vite,ts,jquery" /></a> <a href="https://axios-http.com/">Axios</a> / <a href="https://www.w3schools.com/xml/ajax_intro.asp">Ajax</a> / <a href="https://pinia.vuejs.org/">Pinia</a></p>  	| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,eclipse,nodejs,hibernate,maven" /></a> <a href="https://www.ibm.com/docs/pt-br/was/8.5.5?topic=SSEQTP_8.5.5/com.ibm.websphere.nd.multiplatform.doc/ae/cejb_persistence.html">JPA</a> / <a href="https://start.spring.io/">Spring Boot</a> / <a href="https://tomcat.apache.org/">Apache Tomcat</a> / <a href="https://docs.spring.io/spring-boot/docs/1.5.16.RELEASE/reference/html/using-boot-devtools.html">DevTools</a></p>  	|
 
 <br/>
 
