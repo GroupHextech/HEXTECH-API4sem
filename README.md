@@ -74,6 +74,10 @@ Presentation of the wireframe for each proposal:
 
 <h2>Development Tools</h2>
 
+| Versioning  	| Database  	| Front-end  	| Back-end  	|
+|---	|---	|---	|---	|
+|  <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github" /></a></p> 	| <p align="center"><a href="https://www.oracle.com/br/cloud/sign-in.html">ᴏʀᴀᴄʟᴇ ᴄʟᴏᴜᴅ</a> <a href="https://vertabelo.com/">ᴠᴇʀᴛᴀʙᴇʟᴏ</a></p> 	| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,vscode,js,html,css,svg,bootstrap,vue,vite,ts,jquery" /></a></p>  	| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,eclipse,nodejs,hibernate,maven" /></a></p>  	|
+
 | Communication <br> and Versioning | Databases | Front end | Back End |
 | --- | --- | --- | --- |
 | [GitHub](https://github.com/ "GitHub") | [Oracle Cloud - Autonomous](https://www.oracle.com/br/cloud/sign-in.html "Oracle Cloud") | [Figma](https://www.figma.com/ "Figma") | [Java JDK](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html "Java JDK") |
