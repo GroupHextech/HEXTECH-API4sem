@@ -11,6 +11,7 @@ Our ideas are geared towards software development, database and technological in
 - [About the group](#about-the-group)
 - [Project Purpose](#project-purpose)
 - [User's Manual (Excuting the application)](#users-manual-excuting-the-application)
+    - [New Wireframes](#new-wireframes)
 - [Sprint timeline activities and backlog](#sprint-timeline-activities-and-backlog)
     - [Sprint 1 Backlog and timeline](./readme_pages/sprint01_atividades_entrega.md)
     - [Sprint 2 Backlog and timeline](./readme_pages/sprint02_atividades_entrega.md)
@@ -57,7 +58,11 @@ Manual with all the steps to run the desktop application.
 Presentation of the wireframe for each proposal: 
 ![WIREFRAME](./readme_documents/wireframes/wireframe_gif.gif "Wireframe_Gif")
 
-<br />
+### New Wireframes
+
+| All Items | Chassis | Chassis / Register |
+|--- |--- |--- |
+| ![All Items](https://github.com/GroupHextech/HEXTECH-API4sem/blob/2SprintAPI/readme_documents/wireframes/wireframe_allitems.png) | ![Chassis](https://github.com/GroupHextech/HEXTECH-API4sem/blob/2SprintAPI/readme_documents/wireframes/wireframe_chassis.png) | ![Chassis - Register](https://github.com/GroupHextech/HEXTECH-API4sem/blob/2SprintAPI/readme_documents/wireframes/wireframe_chassis_register.png) |
 
 
 <h2>Sprint timeline activities and backlog</h2>
