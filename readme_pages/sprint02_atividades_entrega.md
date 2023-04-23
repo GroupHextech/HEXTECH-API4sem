@@ -56,7 +56,7 @@ Conceptual to physical model and application development at each sprint.
 
 <br />
 
-<h3>Scritps SQL</h3> 
+<h3>Scripts SQL</h3> 
 
 All sql scripts that were used to create the Physical DB in Oracle Cloud
 
