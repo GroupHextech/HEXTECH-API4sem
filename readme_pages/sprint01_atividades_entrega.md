@@ -48,7 +48,7 @@ Conceptual to physical model and application development at each sprint.
 
 Conceptual model of database
 
-![ConceptualBDSP1](../readme_documents/database/bd_conceitualsp1.png)
+![ConceptualBDSP1](../readme_documents/database/bd_ConceiptualSp1.png)
 
 <br/>
 
