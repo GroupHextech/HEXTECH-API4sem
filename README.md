@@ -24,11 +24,78 @@ Our ideas are geared towards software development, database and technological in
 
 <h2>About the group</h2>
 
-| Scrum Master | PO | Developers | 
-| ------------------- | ------------------- |  ------------------- | 
-| [Michel Rubens](mailto:michel.silva33@fatec.sp.gov.br "Michel Rubens Silva") <a href="https://www.linkedin.com/in/michelrubens/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" /></a> | [Danilo Verginio Silva](mailto:danilo.silva210b@fatec.sp.gov.br "Danilo Verginio Silva") <a href="https://www.linkedin.com/in/daniloverginio" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" /></a> | [Luiz Borges](mailto: "Luiz Borges") <a href="https://www.linkedin.com/in/luizborges17/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" /></a>|
-| | | [Victor Fernandes](mailto: "Victor Fernandes") <a href="https://www.linkedin.com/in/victorfernandescpv/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" /></a> |
-| | | [William David Antoniazzi](mailto:william.antoniazzi@fatec.sp.gov.br "William Antoniazzi") <a href="https://www.linkedin.com/in/williamantoniazzi/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" /></a> |
+<table>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/Daniloel" alt="Danilo Verginio" width="50"></td>
+    <td>
+      <b>Danilo Verginio</b>
+      <p>Product Owner</p>
+    </td>
+    <td>
+      <div>
+        <a href="https://github.com/Daniloel"><img src="https://img.shields.io/badge/Github-Daniloel-blue?style=flat-square&logo=github"></a>
+          </div><div>
+        <a href="https://www.linkedin.com/in/daniloverginio"><img src="https://img.shields.io/badge/LinkedIn-daniloverginio-blue?style=flat-square&logo=linkedin"></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/michelrubens" alt="Michel Rubens" width="50"></td>
+    <td>
+      <b>Michel Rubens</b>
+      <p>Scrum Master</p>
+    </td>
+    <td>
+      <div>
+        <a href="https://github.com/michelrubens"><img src="https://img.shields.io/badge/Github-michelrubens-blue?style=flat-square&logo=github"></a>
+          </div><div>
+        <a href="https://www.linkedin.com/in/michelrubens/"><img src="https://img.shields.io/badge/LinkedIn-michelrubens-blue?style=flat-square&logo=linkedin"></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/luizborges17" alt="Luiz Borges" width="50"></td>
+    <td>
+      <b>Luiz Borges</b>
+      <p>Developer</p>
+    </td>
+    <td>
+      <div>
+        <a href="https://github.com/luizborges17"><img src="https://img.shields.io/badge/Github-luizborges17-blue?style=flat-square&logo=github"></a>
+          </div><div>
+        <a href="https://www.linkedin.com/in/luizborges17/"><img src="https://img.shields.io/badge/LinkedIn-luizborges17-blue?style=flat-square&logo=linkedin"></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/victornaca" alt="Victor Fernandes" width="50"></td>
+    <td>
+      <b>Victor Fernandes</b>
+      <p>Developer</p>
+    </td>
+    <td>
+      <div>
+        <a href="https://github.com/victornaca"><img src="https://img.shields.io/badge/Github-victornaca-blue?style=flat-square&logo=github"></a>
+          </div><div>
+        <a href="https://www.linkedin.com/in/victorfernandescpv/"><img src="https://img.shields.io/badge/LinkedIn-victorfernandescpv-blue?style=flat-square&logo=linkedin"></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/williamantoniazzi" alt="William Antoniazzi" width="50"></td>
+    <td>
+      <b>William Antoniazzi</b>
+      <p>Developer</p>
+    </td>
+    <td>
+      <div>
+        <a href="https://github.com/williamantoniazzi"><img src="https://img.shields.io/badge/Github-williamantoniazzi-blue?style=flat-square&logo=github"></a>
+        </div><div>
+        <a href="https://www.linkedin.com/in/williamantoniazzi/"><img src="https://img.shields.io/badge/LinkedIn-williamantoniazzi-blue?style=flat-square&logo=linkedin"></a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br />
 
