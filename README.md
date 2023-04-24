@@ -28,7 +28,7 @@ Our ideas are geared towards software development, database and technological in
 | ------------------- | ------------------- |  ------------------- | 
 | [Michel Rubens](mailto:michel.silva33@fatec.sp.gov.br "Michel Rubens Silva") <a href="https://www.linkedin.com/in/michelrubens/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" /></a> | [Danilo Verginio Silva](mailto:danilo.silva210b@fatec.sp.gov.br "Danilo Verginio Silva") <a href="https://www.linkedin.com/in/daniloverginio" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" /></a> | [Luiz Borges](mailto: "Luiz Borges") <a href="https://www.linkedin.com/in/luizborges17/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" /></a>|
 | | | [Victor Fernandes](mailto: "Victor Fernandes") <a href="https://www.linkedin.com/in/victorfernandescpv/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" /></a> |
-| | | [William David Antoniazzi](mailto:william.antoniazzi@fatec.sp.gov.br "William David Antoniazzi") <a href="https://www.linkedin.com/in/williamantoniazzi/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" /></a> |
+| | | [William David Antoniazzi](mailto:william.antoniazzi@fatec.sp.gov.br "William Antoniazzi") <a href="https://www.linkedin.com/in/williamantoniazzi/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" /></a> |
 
 <br />
 
@@ -42,6 +42,7 @@ Empresa Brasileira de Aeronáutica (Embraer) is responsible for manufacturing mi
 Embraer is the third largest company in the world in executive aviation, and it has been reducing the dominance of European and American companies in the sector.
 
 <br />
+
 
 Customer's desired scope: [Embraer API](./api_project_Embraer/%5BAC%20Config%20Control%5D%20Proposta%20FATEC%202023-1_rev1_0.docx)
 
@@ -58,11 +59,7 @@ Manual with all the steps to run the desktop application.
 Presentation of the wireframe for each proposal: 
 ![WIREFRAME](./readme_documents/wireframes/wireframe_gif.gif "Wireframe_Gif")
 
-### New Wireframes
-
-| All Items | Chassis | Chassis / Register |
-|--- |--- |--- |
-| ![All Items](https://github.com/GroupHextech/HEXTECH-API4sem/blob/2SprintAPI/readme_documents/wireframes/wireframe_allitems.png) | ![Chassis](https://github.com/GroupHextech/HEXTECH-API4sem/blob/2SprintAPI/readme_documents/wireframes/wireframe_chassis.png) | ![Chassis - Register](https://github.com/GroupHextech/HEXTECH-API4sem/blob/2SprintAPI/readme_documents/wireframes/wireframe_chassis_register.png) |
+<br />
 
 
 <h2>Sprint timeline activities and backlog</h2>
