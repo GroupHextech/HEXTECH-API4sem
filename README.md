@@ -109,31 +109,33 @@ Manual with all the steps to run the desktop application.
 
 ## Sprint Timeline and Backlog
 
-## Sprint 1: 03/05/2023 - 17/05/2023
+### Sprint 1 - (13/03 - 02/04)
+- [X] Database modeling
+- [X] Login page
+- [X] Chassis page
+- [X] Database normalization
+### Sprint 2 - (03/04 - 23/04)
+- [X] Creating a database in the Oracle cloud
+- [X] Insertion of chassis and service bulletins in the database
+- [X] Backend integration with the database
+- [X] Upload of chassis and service bulletins via .csv file
+- [X] List of items and chassis
+### Sprint 3 - (24/04 - 14/05) 
+- [ ] User authentication
+- [ ] Security configuration
+- [ ] SB change log
+- [ ] Registration of items and formulas
+- [ ] Adjust methods according to permissions
+- [ ] Service Bulletin Update
+### Sprint 4 - (15/05 - 04/06)
+- [ ] Available Items Chart
+- [ ] Declaration of Responsibility Agreement Signature
+- [ ] User manual
+- [ ] Application installation guide
+- [ ] Documentation of API endpoints and frontend components
+- [ ] FAQ
 
-### Sprint Goals:
-
-- 
-- 
-- 
-
-### Sprint Backlog:
-
-| Item | Description | Estimate |
-| --- | --- | --- |
-| 1 |  |  |
-| 2 |  |  |
-| 3 |  |  |
-| 4 |  |  |
-
-### Sprint Progess:
-
-| Item | Description | Estimate | Status |
-| --- | --- | --- | --- |
-| 1 |  |  |  |
-| 2 |  |  |  |
-| 3 |  |  |  |
-| 4 |  |  |  |
+<br>
 
 <!-- Old Part -->
 ![Backlog_do_Produto](./readme_documents/sprintslogs/product_backlog.png "Backlog do Produto")
