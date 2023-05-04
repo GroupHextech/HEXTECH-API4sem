@@ -1,3 +1,5 @@
+<img alt="Hextech Logo" src="./assets/images/Banner_Hextech.png"/>
+
 # HexTech - Technology Solutions
 HexTech is a fictitious technology company created by students from the 4th Semester of Database at [Fatec SJC - Prof. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/suporte-moodle.php "Fatec SJC - Prof. Jessen Vidal") to complete their coursework and semester API project. We specialize in software development, database management, and technological innovation.
 
