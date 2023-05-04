@@ -118,9 +118,8 @@ Manual with all the steps to run the desktop application.
 - [X] Database normalization
 ### [Sprint 2](./readme_pages/sprint02_atividades_entrega.md) - (03/04 - 23/04)
 - [X] Creating a database in the Oracle cloud
-- [X] Insertion of chassis and service bulletins in the database
 - [X] Backend integration with the database
-- [X] Upload of chassis and service bulletins via .csv file
+- [X] Insertion of chassis and service bulletins in the database via .csv file
 - [X] List of items and chassis
 ### Sprint 3 - (24/04 - 14/05) 
 - [ ] User authentication
