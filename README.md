@@ -172,4 +172,4 @@ Manual with all the steps to run the desktop application.
 
 <br>
 
-[→ Back to Home](#hextech---technology-solutions)
+⬆ [Back to Home](#hextech---technology-solutions)
