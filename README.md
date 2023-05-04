@@ -137,13 +137,6 @@ Manual with all the steps to run the desktop application.
 - [ ] Documentation of API endpoints and frontend components
 - [ ] FAQ
 
-<br>
-
-<!-- Old Part -->
-![Backlog_do_Produto](./readme_documents/sprintslogs/product_backlog.png "Backlog do Produto")
-
-<br />
-
 ## Development Tools
 
 ### Frontend:
