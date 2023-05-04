@@ -109,12 +109,12 @@ Manual with all the steps to run the desktop application.
 
 ## Sprint Timeline and Backlog
 
-### Sprint 1 - (13/03 - 02/04)
+### [Sprint 1](./readme_pages/sprint01_atividades_entrega.md) - (13/03 - 02/04)
 - [X] Database modeling
 - [X] Login page
 - [X] Chassis page
 - [X] Database normalization
-### Sprint 2 - (03/04 - 23/04)
+### [Sprint 2](./readme_pages/sprint02_atividades_entrega.md) - (03/04 - 23/04)
 - [X] Creating a database in the Oracle cloud
 - [X] Insertion of chassis and service bulletins in the database
 - [X] Backend integration with the database
@@ -139,11 +139,6 @@ Manual with all the steps to run the desktop application.
 
 <!-- Old Part -->
 ![Backlog_do_Produto](./readme_documents/sprintslogs/product_backlog.png "Backlog do Produto")
-
-- [Sprint 1 Backlog and timeline](./readme_pages/sprint01_atividades_entrega.md)
-- [Sprint 2 Backlog and timeline](./readme_pages/sprint02_atividades_entrega.md)
-- Sprint 3 Backlog and timeline
-- Sprint 4 Backlog and timeline
 
 <br />
 
@@ -177,4 +172,4 @@ Manual with all the steps to run the desktop application.
 
 <br>
 
-:house: [→ Back to Home](#hextech---technology-solutions)
+[→ Back to Home](#hextech---technology-solutions)
