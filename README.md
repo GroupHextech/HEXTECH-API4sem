@@ -26,7 +26,7 @@ Presentation of the wireframe for each proposal:
 To begin working on this project, you'll need to follow these steps:
 
 1. Clone this repository by running ``git clone https://github.com/GroupHextech/HEXTECH-API4sem.git`` in your terminal.
-2. Download the necessary submodules by running git ``submodule update --init --recursive``.
+2. Download the necessary submodules by running ``git submodule update --init --recursive``.
 3. Install the dependencies for each submodule separately. This project is divided into three submodules: <b>[acc-frontend](https://github.com/GroupHextech/acc-frontend)</b>, <b>[acc-backend](https://github.com/GroupHextech/acc-backend)</b>, and <b>[acc-documentation](https://github.com/GroupHextech/acc-documentation)</b>.
 
 ### Prerequisites
@@ -41,7 +41,7 @@ To install the necessary dependencies for each submodule, navigate to the submod
 
 #### acc-frontend:
 - The frontend is made with Vue.js and Typescript, and it is initialized by Vite. To get started with the frontend, navigate to the acc-frontend directory and run the following command:
-```sh
+```console
 # Navigate to acc-frontend directory
 cd acc-frontend
 
@@ -51,7 +51,7 @@ npm install
 
 #### acc-backend:
 - The backend is made with Springboot and has some dependencies such as Maven and other Spring Framework dependencies, and Lombok is also used. To get started with the backend, navigate to the acc-backend directory and run the following command:
-```sh
+```console
 # Navigate to acc-backend directory
 cd acc-backend
 
@@ -61,7 +61,7 @@ mvn install
 
 #### acc-documentation:
 - The documentation module contains the documentation of the API endpoints. To access the documentation, navigate to the acc-documentation directory and open the index.html file in your web browser.
-```sh
+```console
 # Navigate to acc-documentation directory
 cd acc-documentation
 
@@ -75,7 +75,7 @@ yarn install
 Each submodule has its own instructions on how to run it:
 
 #### acc-frontend:
-```sh
+```console
 # Navigate to acc-frontend directory
 cd acc-frontend
 
@@ -84,7 +84,7 @@ npm run dev
 ```
 
 #### acc-backend:
-```sh
+```console
 # Navigate to acc-backend directory
 cd acc-backend
 
@@ -93,7 +93,7 @@ mvn spring-boot:run
 ```
 
 #### acc-documentation:
-```sh
+```console
 # Navigate to acc-documentation directory
 cd acc-documentation
 
@@ -127,9 +127,14 @@ Manual with all the steps to run the desktop application.
 - [ ] SB change log
 - [ ] Registration of items and formulas
 - [ ] Adjust methods according to permissions
-- [ ] Service Bulletin Update
+- [X] Service Bulletin status update
+- [X] List of chassis by item
+- [X] Chart with the service bulletins status by chassis
 ### Sprint 4 - (15/05 - 04/06)
-- [ ] Available Items Chart
+- [ ] Chart with available items by chassis
+- [ ] Chart with the number of chassis with a specific service bulletin
+- [ ] Chart with the quantity of fleet incorporation
+- [ ] Chart of the quantity of service bulletins on a chassis over time
 - [ ] Declaration of Responsibility Agreement Signature
 - [ ] User manual
 - [ ] Application installation guide
@@ -157,12 +162,12 @@ Manual with all the steps to run the desktop application.
 
 ## Team Members
 | Photo | Name | Function | Links |
-| --- | --- | --- | --- |
+| --- | :---: | :---: | --- |
 | <img src="https://avatars.githubusercontent.com/Daniloel" alt="Danilo Verginio" width="50"> | <b>Danilo Verginio</b> | Product Owner | ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=[https://github.com/Daniloel]) ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://linkedin.com/in/daniloverginio]) |
 | <img src="https://avatars.githubusercontent.com/michelrubens" alt="Michel Rubens" width="50"> | <b>Michel Rubens</b> | Scrum Master | ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=[https://github.com/michelrubens]) ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://linkedin.com/in/michelrubens]) |
 | <img src="https://avatars.githubusercontent.com/luizborges17" alt="Luiz Borges" width="50"> | <b>Luiz Borges</b> | Developer | ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=[https://github.com/luizborges17]) ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://linkedin.com/in/luizborges17]) |
-| <img src="https://avatars.githubusercontent.com/victornaca" alt="Victor Fernandes" width="50"> | Victor Fernandes | Developer | ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=[https://github.com/victornaca]) ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://linkedin.com/in/victorfernandescpv]) |
-| <img src="https://avatars.githubusercontent.com/williamantoniazzi" alt="William Antoniazzi" width="50"> | William Antoniazzi | Developer | ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=[https://github.com/williamantoniazzi]) ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://linkedin.com/in/williamantoniazzi]) |
+| <img src="https://avatars.githubusercontent.com/victornaca" alt="Victor Fernandes" width="50"> | <b>Victor Fernandes</b> | Developer | ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=[https://github.com/victornaca]) ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://linkedin.com/in/victorfernandescpv]) |
+| <img src="https://avatars.githubusercontent.com/williamantoniazzi" alt="William Antoniazzi" width="50"> | <b>William Antoniazzi</b> | Developer | ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=[https://github.com/williamantoniazzi]) ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://linkedin.com/in/williamantoniazzi]) |
 
 <br>
 
