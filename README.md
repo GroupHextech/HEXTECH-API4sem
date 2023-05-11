@@ -12,10 +12,10 @@ HexTech is a fictitious technology company created by students from the 4th Seme
 - [Team Members](#team-members)
 
 ## About HexTech
-We are a fictional company, developing semester projects during our graduation in Database at Fatec. These projects are API (Learning by Integrated Projects). The current members of the group are listed in the README.md at the end.
+We are a fictional company, developing semester projects during our graduation in Database at Fatec. These projects are API (Learning by Integrated Projects). The current [<b>members</b>](#team-members) of the group are listed in the README.md at the end.
 
 ## Project Purpose
-Our [project purpose](./api_project_Embraer/%5BAC%20Config%20Control%5D%20Proposta%20FATEC%202023-1_rev1_0.docx) is to develop an Aircraft Configuration Control (ACC) system for Embraer, the Brazilian Aeronautics Company. Embraer is responsible for manufacturing military, commercial, executive, and agricultural aircraft. As the third-largest company in the world in executive aviation, Embraer is gradually reducing the dominance of European and American companies in the sector. With the ACC, Embraer will be able to manage and control the configuration of its aircraft, providing an efficient and effective solution to optimize their production process. The system will allow pilots to check the configuration of the aircraft they are flying, compare the items present, and know if there are Follow-on-Limitations (FOLs) for them, thus ensuring dispatch quality.
+Our [<b>project purpose</b>](./api_project_Embraer/%5BAC%20Config%20Control%5D%20Proposta%20FATEC%202023-1_rev1_0.docx) is to develop an Aircraft Configuration Control (ACC) system for Embraer, the Brazilian Aeronautics Company. Embraer is responsible for manufacturing military, commercial, executive, and agricultural aircraft. As the third-largest company in the world in executive aviation, Embraer is gradually reducing the dominance of European and American companies in the sector. With the ACC, Embraer will be able to manage and control the configuration of its aircraft, providing an efficient and effective solution to optimize their production process. The system will allow pilots to check the configuration of the aircraft they are flying, compare the items present, and know if there are Follow-on-Limitations (FOLs) for them, thus ensuring dispatch quality.
 
 <!-- Old Part -->
 Presentation of the wireframe for each proposal: 
