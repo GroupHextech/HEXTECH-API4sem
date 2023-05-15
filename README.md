@@ -122,15 +122,15 @@ Manual with all the steps to run the desktop application.
 - [X] Insertion of chassis and service bulletins in the database via .csv file
 - [X] List of items and chassis
 ### Sprint 3 - (24/04 - 14/05) 
-- [ ] User authentication
-- [ ] Security configuration
-- [ ] SB change log
-- [ ] Registration of items and formulas
-- [ ] Adjust methods according to permissions
+- [X] User authentication
+- [X] SB change log
 - [X] Service Bulletin status update
 - [X] List of chassis by item
 - [X] Chart with the service bulletins status by chassis
 ### Sprint 4 - (15/05 - 04/06)
+- [ ] Security configuration
+- [ ] Registration of items and formulas
+- [ ] Adjust methods according to permissions
 - [ ] Chart with available items by chassis
 - [ ] Chart with the number of chassis with a specific service bulletin
 - [ ] Chart with the quantity of fleet incorporation
