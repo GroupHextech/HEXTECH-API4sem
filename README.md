@@ -105,6 +105,20 @@ By following these steps, you should be able to run each submodule independently
 <!-- Old Part -->
 <h2>User's Manual (Excuting the application)</h2>
 
+<br />
+
+<h2>Development Tools</h2>
+
+| Versioning & Communication  	| Database  	| Front-end  	| Back-end  	|
+|---	|---	|---	|---	|
+|  <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github" /></a> <br/> <a href="https://danielkummer.github.io/git-flow-cheatsheet/">Git Flow</a><br/><a href="https://teams.microsoft.com/">Microsoft Teams</a></p> 	| <p align="center"><a href="https://www.oracle.com/br/cloud/sign-in.html">Oracle Cloud</a> <a href="https://vertabelo.com/">Vertabelo</a></p> 	| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,vscode,js,html,css,svg,bootstrap,vue,vite,ts,jquery" /></a> <a href="https://axios-http.com/">Axios</a> • <a href="https://www.w3schools.com/xml/ajax_intro.asp">Ajax</a> • <a href="https://pinia.vuejs.org/">Pinia</a></p>  	| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,eclipse,nodejs,hibernate,maven" /></a> <a href="https://www.ibm.com/docs/pt-br/was/8.5.5?topic=SSEQTP_8.5.5/com.ibm.websphere.nd.multiplatform.doc/ae/cejb_persistence.html">JPA</a> <br/> <a href="https://start.spring.io/">Spring Boot</a> <br/> <a href="https://tomcat.apache.org/">Apache Tomcat</a> <br/> <a href="https://docs.spring.io/spring-boot/docs/1.5.16.RELEASE/reference/html/using-boot-devtools.html">DevTools</a></p>  	|
+
+<br/>
+
+[Home](#hextech---technology-solutions)
+
+<br/>
+=======
 Manual with all the steps to run the desktop application.
 [User's Manual](./readme_pages/user_manual.md "User's Manual")
 <br>
@@ -127,17 +141,17 @@ Manual with all the steps to run the desktop application.
 - [X] Service Bulletin status update
 - [X] List of chassis by item
 - [X] Chart with the service bulletins status by chassis
+- [X] Application installation guide
 ### Sprint 4 - (15/05 - 04/06)
-- [ ] Security configuration
 - [ ] Registration of items and formulas
 - [ ] Adjust methods according to permissions
+- [ ] Security configuration
 - [ ] Chart with available items by chassis
 - [ ] Chart with the number of chassis with a specific service bulletin
 - [ ] Chart with the quantity of fleet incorporation
 - [ ] Chart of the quantity of service bulletins on a chassis over time
 - [ ] Declaration of Responsibility Agreement Signature
 - [ ] User manual
-- [ ] Application installation guide
 - [ ] Documentation of API endpoints and frontend components
 - [ ] FAQ
 
