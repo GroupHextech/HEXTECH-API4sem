@@ -121,7 +121,7 @@ Manual with all the steps to run the desktop application.
 - [X] Backend integration with the database
 - [X] Insertion of chassis and service bulletins in the database via .csv file
 - [X] List of items and chassis
-### Sprint 3 - (24/04 - 14/05) 
+### [Sprint 3](./sprint3/README.md) - (24/04 - 14/05) 
 - [X] User authentication
 - [X] SB change log
 - [X] Service Bulletin status update
