@@ -131,7 +131,7 @@ Manual with all the steps to run the desktop application.
 ### Sprint 4 - (15/05 - 04/06)
 - [ ] Registration of items and formulas
 - [ ] Adjust methods according to permissions
-- [ ] Security configuration
+- [X] Security configuration
 - [ ] Chart with available items by chassis
 - [ ] Chart with the number of chassis with a specific service bulletin
 - [ ] Chart with the quantity of fleet incorporation
