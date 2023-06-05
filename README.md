@@ -129,17 +129,14 @@ Manual with all the steps to run the desktop application.
 - [X] Chart with the service bulletins status by chassis
 - [X] Application installation guide
 ### Sprint 4 - (15/05 - 04/06)
-- [ ] Registration of items and formulas
-- [ ] Adjust methods according to permissions
+- [X] Registration of items and formulas
+- [X] Adjust methods according to permissions
 - [X] Security configuration
-- [ ] Chart with available items by chassis
-- [ ] Chart with the number of chassis with a specific service bulletin
-- [ ] Chart with the quantity of fleet incorporation
-- [ ] Chart of the quantity of service bulletins on a chassis over time
-- [ ] Declaration of Responsibility Agreement Signature
-- [ ] User manual
-- [ ] Documentation of API endpoints and frontend components
-- [ ] FAQ
+- [X] Chart with available items by chassis
+- [X] Chart with the number of chassis with a specific service bulletin
+- [X] User manual
+- [X] Documentation of API endpoints and frontend components
+- [X] FAQ
 
 ## Development Tools
 
