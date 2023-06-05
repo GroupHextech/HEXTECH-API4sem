@@ -128,7 +128,7 @@ Manual with all the steps to run the desktop application.
 - [X] List of chassis by item
 - [X] Chart with the service bulletins status by chassis
 - [X] Application installation guide
-### Sprint 4 - (15/05 - 04/06)
+### [Sprint 4](./sprint4/README.md) - (15/05 - 04/06)
 - [X] Registration of items and formulas
 - [X] Adjust methods according to permissions
 - [X] Security configuration
